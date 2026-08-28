@@ -73,5 +73,5 @@ Aplicación con base de datos para administrar información de forma sencilla y 
 🚀 **Hablemos y hagámoslo realidad.**
 
 📧 Email: cosmtallica@gmail.com
-💼 LinkedIn: 
-🐙 GitHub
+💼 LinkedIn: https://www.linkedin.com/in/claudio-omar-suarez-martinez-0779ba352/
+🐙 GitHub: 
