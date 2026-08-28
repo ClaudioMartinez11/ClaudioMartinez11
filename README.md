@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👨‍💻 CLAUDIO MARTINEZ
 
-<!--
-**ClaudioMartinez11/ClaudioMartinez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Web & Software
 
-Here are some ideas to get you started:
+Creo **sitios web modernos, soluciones digitales y automatizaciones** para negocios y emprendimientos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Ingeniería Informática — UNCA
+📍 Catamarca, Argentina
+
+🚀 **¿Tenés un proyecto? Hagámoslo realidad.**
+
+---
+
+## 👋 Sobre mí
+
+Soy estudiante de **Ingeniería Informática** apasionado por la tecnología y el desarrollo de software.
+
+Me interesa crear soluciones que no solo funcionen, sino que también sean **rápidas, intuitivas y visualmente atractivas**.
+
+---
+
+## 🛠️ Servicios
+
+### 🌐 Desarrollo Web
+
+Creo páginas web modernas, responsive y adaptadas a las necesidades de cada proyecto.
+
+### 🤖 Automatización
+
+Desarrollo scripts y herramientas con Python para automatizar tareas y ahorrar tiempo.
+
+### 🗄️ Bases de Datos
+
+Diseño y trabajo con bases de datos SQL para organizar y gestionar información.
+
+### 📊 Análisis de Datos
+
+Transformo datos en información útil mediante herramientas de programación y visualización.
+
+---
+
+## 🚀 Mis proyectos
+
+### 🌐 Landing Page
+
+Una página web moderna y responsive desarrollada con HTML, CSS y JavaScript.
+
+### 🐍 Automatización con Python
+
+Herramienta desarrollada para automatizar tareas y procesamiento de información.
+
+### 🗄️ Sistema de gestión
+
+Aplicación con base de datos para administrar información de forma sencilla y eficiente.
+
+---
+
+## ⚡ Tecnologías
+
+💻 **JavaScript**
+🐍 **Python**
+⚙️ **C**
+🌐 **HTML / CSS**
+🗄️ **SQL**
+🎨 **Photoshop**
+
+---
+
+## 📬 Contacto
+
+¿Tenés una idea, proyecto o negocio que necesita una solución digital?
+
+🚀 **Hablemos y hagámoslo realidad.**
+
+📧 Email: cosmtallica@gmail.com
+💼 LinkedIn: 
+🐙 GitHub
