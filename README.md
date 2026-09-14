@@ -41,12 +41,6 @@ Transformo datos en información útil mediante herramientas de programación y 
 
 ## 🚀 Mis proyectos
 
-### 🌐 Landing Page
-
-Una página web moderna y responsive desarrollada con HTML, CSS y JavaScript.
-
-### 🐍 Automatización con Python
-
 Herramienta desarrollada para automatizar tareas y procesamiento de información.
 
 ### 🗄️ Sistema de gestión
