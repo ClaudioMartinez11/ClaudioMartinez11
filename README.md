@@ -5,6 +5,7 @@
 Creo **sitios web modernos, soluciones digitales y automatizaciones** para negocios y emprendimientos.
 
 🎓 Estudiante de Ingeniería Informática — UNCA
+🖥️ Programador FreeLancer
 📍 Catamarca, Argentina
 
 🚀 **¿Tenés un proyecto? Hagámoslo realidad.**
@@ -58,6 +59,7 @@ Aplicación con base de datos para administrar información de forma sencilla y 
 ⚙️ **C**
 🌐 **HTML / CSS**
 🗄️ **SQL**
+🍵 **JAVA**
 🎨 **Photoshop**
 
 ---
