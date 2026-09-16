@@ -42,7 +42,7 @@ Transformo datos en información útil mediante herramientas de programación y 
 
 ## 🚀 Mis proyectos
 
-[Pagina de reserva de citas frontend y backend, uso de google sheets]((https://glowup-service.netlify.app/))
+[Pagina de reserva de citas frontend y backend, uso de google sheets](https://glowup-service.netlify.app/)
 
 [Pagina web de citas "front end y back end con base de datos sql"](https://liv-studio-nails.netlify.app/)
 
