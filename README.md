@@ -41,7 +41,7 @@ Transformo datos en información útil mediante herramientas de programación y 
 
 ## 🚀 Mis proyectos
 
-[Herramienta desarrollada para automatizar tareas y procesamiento de información.](https://github.com/ClaudioMartinez11/GLOW-UP-PAGE)
+[Pagina de reserva de citas frontend y backend, uso de google sheets](https://github.com/ClaudioMartinez11/GLOW-UP-PAGE)
 
 ### 🗄️ Sistema de gestión
 
