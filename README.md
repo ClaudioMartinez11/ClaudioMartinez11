@@ -42,6 +42,7 @@ Transformo datos en información útil mediante herramientas de programación y 
 ## 🚀 Mis proyectos
 
 [Pagina de reserva de citas frontend y backend, uso de google sheets](https://github.com/ClaudioMartinez11/GLOW-UP-PAGE)
+
 [Pagina web de citas "front end y back end con base de datos sql"](https://github.com/ClaudioMartinez11/WEB-U-AS)
 
 ### 🗄️ Sistema de gestión
