@@ -1,77 +1,39 @@
-# 👨‍💻 CLAUDIO MARTINEZ
+# Claudio Omar Suarez Martinez
 
-### 💻 Desarrollador Web & Software
+### Desarrollador Web Full Stack | Java · Spring Boot · APIs REST
 
-Creo **sitios web modernos, soluciones digitales y automatizaciones** para negocios y emprendimientos.
+Estudiante de Ingeniería en Informática en la UNCA · Desarrollador freelance · Catamarca, Argentina.
 
-🎓 Estudiante de Ingeniería Informática — UNCA
-🖥️ Programador FreeLancer
-📍 Catamarca, Argentina
+**[Ver portfolio](https://claudiomartinezporfolio.netlify.app)** · [LinkedIn](https://www.linkedin.com/in/claudio-omar-suarez-martinez-0779ba352/) · [Email](mailto:claudio.dev.mz@gmail.com)
 
-🚀 **¿Tenés un proyecto? Hagámoslo realidad.**
+> Tus ideas se hacen realidad.
 
----
+## Sobre mí
 
-## 👋 Sobre mí
+Desarrollo soluciones web personalizadas para digitalizar y optimizar negocios. Me especializo en backend con Java y Spring Boot, diseño de APIs REST y persistencia de datos en PostgreSQL. Complemento el backend con interfaces responsive e integraciones de automatización.
 
-Soy estudiante de **Ingeniería Informática** apasionado por la tecnología y el desarrollo de software.
+## Proyectos destacados
 
-Me interesa crear soluciones que no solo funcionen, sino que también sean **rápidas, intuitivas y visualmente atractivas**.
+- **[Carta VR](https://carta-vr.netlify.app/menu/demo)** — menú digital interactivo con visualización 3D y experiencias de realidad aumentada.
+- **[Lo de Mike Perfumes](https://lodemikeperfumes.netlify.app/)** — catálogo de fragancias, búsqueda de productos y pedidos por WhatsApp.
+- **[ValleSport](https://vallesport.netlify.app/)** — prototipo de e-commerce deportivo; el carrito y checkout son demostrativos, sin pagos reales.
+- **[Glow Up Service](https://glowup-service.netlify.app/)** — experiencia de solicitud de turnos para servicios de belleza.
+- **[LIV Studio Nails](https://liv-studio-nails.netlify.app/)** — sitio de estudio de uñas con servicios y solicitud de turnos.
 
----
+## Tecnologías
 
-## 🛠️ Servicios
+- **Backend y datos:** Java, Spring Boot, APIs REST, PostgreSQL, MySQL, SQL, Neon Database y Google Sheets.
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap y diseño responsive.
+- **Otras herramientas:** Python, C, Git, GitHub, Netlify, Visual Studio Code y Adobe Photoshop.
+- **Experiencias interactivas:** 3D, realidad aumentada y Meshy AI.
 
-### 🌐 Desarrollo Web
+## Formación
 
-Creo páginas web modernas, responsive y adaptadas a las necesidades de cada proyecto.
+- Ingeniería en Informática — Universidad Nacional de Catamarca (UNCA), en curso.
+- Desarrollo Web Full Stack y Bases de Datos — Platzi.
+- Business Intelligence y Análisis de Datos — Talento Tech / Santander Open Academy.
+- Inglés B2.
 
-### 🤖 Automatización
+## Contacto
 
-Desarrollo scripts y herramientas con Python para automatizar tareas y ahorrar tiempo.
-
-### 🗄️ Bases de Datos
-
-Diseño y trabajo con bases de datos SQL para organizar y gestionar información.
-
-### 📊 Análisis de Datos
-
-Transformo datos en información útil mediante herramientas de programación y visualización.
-
----
-
-## 🚀 Mis proyectos
-
-[Pagina de reserva de citas frontend y backend, uso de google sheets](https://glowup-service.netlify.app/)
-
-[Pagina web de citas "front end y back end con base de datos sql"](https://liv-studio-nails.netlify.app/)
-
-### 🗄️ Sistema de gestión
-
-Aplicación con base de datos para administrar información de forma sencilla y eficiente.
-
----
-
-## ⚡ Tecnologías
-
-💻 **JavaScript**
-🐍 **Python**
-⚙️ **C**
-🌐 **HTML / CSS**
-🗄️ **SQL**
-🍵 **JAVA**
-🎨 **Photoshop**
-
----
-
-## 📬 Contacto
-
-¿Tenés una idea, proyecto o negocio que necesita una solución digital?
-
-🚀 **Hablemos y hagámoslo realidad.**
-
-📧 Email: cosmtallica@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/claudio-omar-suarez-martinez-0779ba352/
-
-🐙 GitHub: https://github.com/ClaudioMartinez11
+¿Tenés una idea o un proyecto? [Escribime](mailto:claudio.dev.mz@gmail.com) o visitá mi [portfolio](https://claudiomartinezporfolio.netlify.app).
